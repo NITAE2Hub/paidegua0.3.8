@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-APP-Pp-egua-1.0";
 const contentToCache = [
-    "Build/ALpha30.loader.js",
-    "Build/ALpha30.framework.js",
-    "Build/ALpha30.data",
-    "Build/ALpha30.wasm",
+    "Build/paidegua0.3.8.loader.js",
+    "Build/paidegua0.3.8.framework.js",
+    "Build/paidegua0.3.8.data",
+    "Build/paidegua0.3.8.wasm",
     "TemplateData/style.css"
 
 ];
